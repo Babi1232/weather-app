@@ -5,7 +5,7 @@ export default function App() {
     <div>
       <h1> hello</h1>
       <footer>
-        This project is coded by Babisha Shrestha.
+        This project is coded by Babisha Shrestha{""}
         <a href="https://github.com/Babi1232/weather-app" target="_blank">
           open-source on Github
         </a>
