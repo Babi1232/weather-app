@@ -1,5 +1,6 @@
 .weatherForcast {
   text-align: center;
+  margin: 10px;
 }
 .temprature-min {
   opacity: 0.6;
