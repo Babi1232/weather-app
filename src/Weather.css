@@ -2,20 +2,22 @@
   font-family: arial, sans-serif;
   padding: 16px;
   border-radius: 4px;
-  color: rgb(135, 135, 135);
+  color: white;
   border: 1px solid #dadde1;
+  background-color: #73adfa;
+  opacity: 0.6;
 }
 
 .Weather h1 {
   font-size: 30px;
-  font-weight: 500;
-  margin: 20px 0 0 0;
+  font-weight: 600;
+  margin: 30px 0 0 0;
   line-height: 29px;
   color: black;
 }
 
 .Weather ul {
-  margin: 0;
+  margin: 10px 6px;
   padding: 0;
 }
 .Weather li {
